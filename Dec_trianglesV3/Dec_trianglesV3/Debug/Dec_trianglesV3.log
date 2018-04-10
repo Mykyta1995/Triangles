@@ -1,0 +1,5 @@
+﻿  Dec_trianglesV3.cpp
+c:\users\windows 8.1\source\repos\dec_trianglesv3\dec_trianglesv3\change_type.h(22): warning C4091: static : пропускается слева от "change_type::Change_type", когда ни одна переменная не объявлена
+c:\users\windows 8.1\source\repos\dec_trianglesv3\dec_trianglesv3\error.h(19): warning C4091: static : пропускается слева от "Errors::Error", когда ни одна переменная не объявлена
+c:\users\windows 8.1\source\repos\dec_trianglesv3\dec_trianglesv3\dec_trianglesv3.cpp(34): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Dec_trianglesV3.vcxproj -> C:\Users\Windows 8.1\source\repos\Dec_trianglesV3\Debug\Dec_trianglesV3.exe

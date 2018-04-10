@@ -1,0 +1,25 @@
+﻿  stdafx.cpp
+  Dec_trianglesV3.cpp
+c:\users\windows 8.1\source\repos\dec_trianglesv3\dec_trianglesv3\Change_type.h(22): warning C4091: static : пропускается слева от "change_type::Change_type", когда ни одна переменная не объявлена
+c:\users\windows 8.1\source\repos\dec_trianglesv3\dec_trianglesv3\Error.h(19): warning C4091: static : пропускается слева от "Errors::Error", когда ни одна переменная не объявлена
+Dec_trianglesV3.cpp(34): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Input.cpp
+c:\users\windows 8.1\source\repos\dec_trianglesv3\dec_trianglesv3\Change_type.h(22): warning C4091: static : пропускается слева от "change_type::Change_type", когда ни одна переменная не объявлена
+c:\users\windows 8.1\source\repos\dec_trianglesv3\dec_trianglesv3\Error.h(19): warning C4091: static : пропускается слева от "Errors::Error", когда ни одна переменная не объявлена
+  Variant_First.cpp
+c:\users\windows 8.1\source\repos\dec_trianglesv3\dec_trianglesv3\Change_type.h(22): warning C4091: static : пропускается слева от "change_type::Change_type", когда ни одна переменная не объявлена
+c:\users\windows 8.1\source\repos\dec_trianglesv3\dec_trianglesv3\Error.h(19): warning C4091: static : пропускается слева от "Errors::Error", когда ни одна переменная не объявлена
+Variant_First.cpp(10): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Variant_Fore.cpp
+c:\users\windows 8.1\source\repos\dec_trianglesv3\dec_trianglesv3\Change_type.h(22): warning C4091: static : пропускается слева от "change_type::Change_type", когда ни одна переменная не объявлена
+c:\users\windows 8.1\source\repos\dec_trianglesv3\dec_trianglesv3\Error.h(19): warning C4091: static : пропускается слева от "Errors::Error", когда ни одна переменная не объявлена
+  Variant_Second.cpp
+c:\users\windows 8.1\source\repos\dec_trianglesv3\dec_trianglesv3\Change_type.h(22): warning C4091: static : пропускается слева от "change_type::Change_type", когда ни одна переменная не объявлена
+c:\users\windows 8.1\source\repos\dec_trianglesv3\dec_trianglesv3\Error.h(19): warning C4091: static : пропускается слева от "Errors::Error", когда ни одна переменная не объявлена
+  Variant_Third.cpp
+c:\users\windows 8.1\source\repos\dec_trianglesv3\dec_trianglesv3\Change_type.h(22): warning C4091: static : пропускается слева от "change_type::Change_type", когда ни одна переменная не объявлена
+c:\users\windows 8.1\source\repos\dec_trianglesv3\dec_trianglesv3\Error.h(19): warning C4091: static : пропускается слева от "Errors::Error", когда ни одна переменная не объявлена
+  Создание кода
+  All 349 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Dec_trianglesV3.vcxproj -> C:\Users\Windows 8.1\source\repos\Dec_trianglesV3\x64\Release\Dec_trianglesV3.exe
